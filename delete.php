@@ -25,8 +25,7 @@
 <body class="bg-light">
 
 <div class="container">
-    <h1 class="mt-4">PHP Exercises Day 3</h1>
-    <h2 class="mt-2">Restaurante Unicórnio Tesão</h2>
+    <h1 class="mt-4">PHP Exercises Day 3: Restaurante Unicórnio Tesão</h2>
 
     <div class="row pt-2">
         <div class="col-12">
