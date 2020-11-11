@@ -1,1 +1,1 @@
-# phpexercises3
+# PHP Exercises 3
