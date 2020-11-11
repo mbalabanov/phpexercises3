@@ -1,0 +1,7 @@
+.browserdependent {
+    border: 1px solid black;
+    color: white;
+    background-color: green;
+    width: 40%;
+    padding: 1rem;
+}

@@ -1,0 +1,6 @@
+.browserdependent {
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+    padding: 1rem;
+}
